@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 自定义属性 名称   类型 -->
+    <!-- 右侧菜单布局左侧方向的padding值 -->
+    <attr name="rightMenuPaddingLeft" format="dimension"></attr>
+    <!-- 左侧侧菜单布局右侧方向的padding值 -->
+    <attr name="leftMenuPaddingRight" format="dimension"></attr>
+
+    <declare-styleable name="SlidingMenu">
+        <attr name="leftMenuPaddingRight"></attr>
+        <attr name="rightMenuPaddingLeft"></attr>
+    </declare-styleable>
+
+</resources>
