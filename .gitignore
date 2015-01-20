@@ -1,0 +1,15 @@
+.gradle/
+.idea/
+.settings/
+build/
+bin/
+gen/
+.DS_Store
+.classpath
+.project
+libs/.DS_Store
+ruikye.store
+.gitlog
+gradle/
+gradlew
+gradlew.bat
